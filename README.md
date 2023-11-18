@@ -1,4 +1,4 @@
-# Smart_Irrigatio_System
+# Smart_Irrigation_System
 // AUTOMATIC IRRIGATION SYSTEM
 /* The program for AUTOMATIC IRRIGATION SYSTEM IS Written and Tested by__
  HS Sandesh Hegde
